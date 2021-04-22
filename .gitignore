@@ -1,0 +1,4 @@
+.env
+docker/data/
+code/symfony/vendor
+code/ws/node_modules
